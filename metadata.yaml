@@ -1,0 +1,27 @@
+_repo: Voyage-d-une-Parisienne-dans-l-Himalaya-occidental_71737
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ujfalvy-Bourdon, Marie
+    gutenberg_agent_id: '56369'
+    url: http://www.gutenberg.org/2009/agents/56369
+description: ''
+gutenberg_issued: '2023-09-27'
+identifiers:
+  gutenberg: '71737'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=hvd.32044010399939
+pgterms:marc905: 20220817090737ujfalvybou
+pgterms:marc906: '1887'
+pgterms:marc907: FR
+production_note: Laurent Vogel, Hans Pieterse and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bHachette, $c1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Voyage d'une Parisienne dans l'Himalaya occidental
+url: http://www.gutenberg.org/ebooks/71737
